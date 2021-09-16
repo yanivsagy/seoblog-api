@@ -1,2 +1,2 @@
-# seoblog-api
-Backend for the SEOBlog web application.
+# SEOBlog-API
+The backend for the SEOBlog web application.
